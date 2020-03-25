@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hue.Sharp", "Hue.Sharp\Hue.Sharp.csproj", "{F4F8B3A6-28F5-4ADB-ADD8-9E98CF3A85FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hue.Sharp.Tests", "Hue.Sharp.Tests\Hue.Sharp.Tests.csproj", "{8EE0BD16-3ACC-43A2-AA0E-B8A05176D00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F8B3A6-28F5-4ADB-ADD8-9E98CF3A85FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F8B3A6-28F5-4ADB-ADD8-9E98CF3A85FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F8B3A6-28F5-4ADB-ADD8-9E98CF3A85FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F8B3A6-28F5-4ADB-ADD8-9E98CF3A85FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE0BD16-3ACC-43A2-AA0E-B8A05176D00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE0BD16-3ACC-43A2-AA0E-B8A05176D00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE0BD16-3ACC-43A2-AA0E-B8A05176D00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE0BD16-3ACC-43A2-AA0E-B8A05176D00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
