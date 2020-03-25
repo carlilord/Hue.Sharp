@@ -1,3 +1,5 @@
+[![NuGet version (Hue.Sharp)](https://img.shields.io/nuget/v/Hue.Sharp)](https://www.nuget.org/packages/Hue.Sharp/)
+
 # Hue.Sharp
 This is an API for communicating with your Philips Hue lamps via C#.
 
